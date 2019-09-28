@@ -1,0 +1,35 @@
+Varun Gannavarapu       Period 3            10/23/18
+
+Question 2:
+  a) [[18, 17], [11, 12]]
+  b) ebzwpspcncntjsdgodzrgofxpgqukfqhggdnps
+  c) buthetragicallydidnotgetrichoffofita
+
+Question 3:
+  [('A', 'A'), ('A', 'N'), ('N', 'A'), ('N', 'N')]
+
+Question 4: 
+  Inverse count for mod 26: 157247
+
+Question 5:
+  Inverse count for mod 27: 314927
+  The difference can be account for by a), there being over 70,000 more possibilities, and b) the mod changes to 27, which is not divisible by 2, which allows for many more possibilities.
+
+Question 6: 
+  a) Alphabet: "ABCDEFGHIJKLMNOPQRSTUVW"  #mod 23
+  b) Encoding matrix: [[4, 3], [5, 6]]
+  c) Decoding matrix: [[18, 17], [11, 12]]
+  d) Plaintext: "Hello World!"
+     Encoded: "ohzrsudqbv"
+  e) Ciphertext: "OHZRSUDQBV"
+     Decoded: "helloworld"
+
+Question 8:
+  a) [[11, 17], [1, 6]]
+      dearprudencewontyoucomeouttoplay
+  b) [[5, 3], [11, 16]]
+      flewinfrommiamibeachboac
+  c) [[11, 1], [19, 12]]
+      itoldyouaboutstrawberryfieldsa
+  d) [[13, 11], [9, 4]]
+      ilookatyouallseethelovetherethatssleepinga
