@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NBA Trivia Quiz</string>
+    <string name="Q1">Is Kobe Bryant the NBA all-time leading scorer?</string>
+    <string name="Q2">Does LeBron James have 4 MVPs?</string>
+    <string name="Q3">Did Michael Jordan win 6 championships with the Chicago Bulls in a row?</string>
+    <string name="Q4">Does Anthony Davis play for the Los Angeles Lakers?</string>
+    <string name="Q5">Is John Wall a point guard?</string>
+    <string name="Q6">Is Russell Westbrook a point guard?</string>
+    <string name="Q7">Is Kevin Durant not a "snake"?</string>
+    <string name="Q8">Did Kobe Bryant play with Shaquille O\'Neal on the Los Angeles Lakers?</string>
+    <string name="Q9">Is Stephen Curry the greatest dunker ever?</string>
+    <string name="Q10">Is Yao Ming 7 foot 11 inches?</string>
+    <string name="Q11">Is Ben Simmons Australian?</string>
+    <string name="Q12">Does Hakeem Olajuwon have 2 Finals MVPs?</string>
+    <string name="Q13">Do Kareem Abdul-Jabbar and Michael Jordan have the same number of regular-season MVPs?</string>
+    <string name="Q14">Are there 30 teams in the NBA?</string>
+    <string name="Q15">Are there 16 teams per conference in the NBA</string>
+    <string name="Q16">Has the Eastern Conference been regarded as weaker than the Western Conference over the past several years?</string>
+    <string name="Q17">Did Kyrie Irving win Finals MVP with the Cleveland Cavaliers?</string>
+    <string name="Q18">Do the Boston Celtics have the most championships of any NBA team?</string>
+    <string name="Q19">Did the Miami Heat ever 3-peat with Dwayne Wade?</string>
+    <string name="Q20">Did Chris Bosh\'s career end due to medical problems?</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="hint_button">HINT</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect...</string>
+    <string name="warning_text">Are you sure?</string>
+    <string name="show_answer_button">Yes</string>
+    <string name="answer_text_view">TRUE</string>
+</resources>

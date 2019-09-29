@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireBase_Demo</string>
+    <string name="send_button">SEND</string>
+    <string name="retrieve_button">RETRIEVE</string>
+</resources>
