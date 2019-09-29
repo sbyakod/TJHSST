@@ -1,0 +1,1 @@
+At lvl 6 nm gives [-47, -1, -1, -1, -1, -1, 60] and I pick move 60
