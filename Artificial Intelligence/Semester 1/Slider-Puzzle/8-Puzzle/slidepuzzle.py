@@ -3,7 +3,7 @@
 """
 Created on Wed Sep 13 23:16:54 2017
 
-@author: dannykim
+@author: Sharath Byakod
 """
 
 def swap(string, a, b):
